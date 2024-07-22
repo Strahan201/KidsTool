@@ -1,0 +1,9 @@
+name: KidsTool
+author: Strahan
+main: com.sylvcraft.kidstool.KidsTool
+version: 1.0
+api-version: 1.19
+description: Makes it easier for gaming with children
+commands:
+  kt:
+

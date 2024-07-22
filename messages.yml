@@ -1,0 +1,11 @@
+enUS:
+  messages:
+    access-denied: '&cAccess denied'
+    players-only: 'Not for console use'
+    invalid-number: '&cThat is not a valid numeric value!'
+    list-header: '&eHeader text:%br%'
+    list-data: '&6%value%'
+    reloaded: '&6Configuration reloaded'
+  help:
+    cmd: '&a/cmd subcmd &earg &7- &6Explanation'
+    reload: '&a/cmd reload &7- &6Reloads configuration'
