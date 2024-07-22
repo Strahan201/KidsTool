@@ -40,7 +40,8 @@ All commands are under the /kt master command.  Here are the kt subcommands:
 
 Here is an example config, showing the various features available:
 
-```items:
+```
+items:
   (item id):
     lore:
     - lore string
@@ -76,4 +77,5 @@ kits:
       item: (item id)
       qty: 1
     1:
-      (item stack serialized)```
+      (item stack serialized)
+```
